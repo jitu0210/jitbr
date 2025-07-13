@@ -1,0 +1,24 @@
+{
+  "name": "jitbr",
+  "version": "1.0.2",
+  "description": "A lightweight hashing utility like bcrypt using Node.js crypto (ES Module)",
+  "type": "module",
+  "main": "index.js",
+  "keywords": [
+    "hash",
+    "crypto",
+    "bcrypt",
+    "password",
+    "secure",
+    "auth"
+  ],
+  "author": "Jitu Kumar",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ]
+}

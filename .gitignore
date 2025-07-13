@@ -1,0 +1,25 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# test file
+test.js
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Optional
+.DS_Store
+.env
+.env.local
+dist/
+coverage/
+
+# OS-specific
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
